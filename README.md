@@ -19,7 +19,7 @@
 
   <li>
     <div>
-      Pipeline byrjar á því að setja upp vertex og fragment shader og gefur síðan WebGL allt data sem shaders þurfa að nota. Það data er vertex data, sem útskýrir hvernig þríhyrningarnir fyrir objectið eiga að vera teiknaðir, og bitmap data sem fragment shader notar. Eftir að það er komið þá byrjar það að rendera hvern vertext í gegnum vertex shader sem ákveður canvas stöðurnar á þríhyrningunum. Síðan ákveður fragment shader basic litinn fyrir hvern og einn pixel. Að lokum fer framebuffer yfir hvern pixel og ákveður nákvæmlega hvaða lit hver pixel fær.
+      Pipeline byrjar á því að setja upp vertex og fragment shader og gefur síðan WebGL allt data sem shaders þurfa að nota. Það data er vertex data, sem útskýrir hvernig þríhyrningarnir fyrir objectið eiga að vera teiknaðir, og bitmap data sem fragment shader notar. Eftir að það er komið þá byrjar það að rendera hvert vertice í gegnum vertex shader sem ákveður canvas stöðurnar á þríhyrningunum. Síðan ákveður fragment shader basic litinn fyrir hvern og einn pixel. Að lokum fer framebuffer yfir hvern pixel og ákveður nákvæmlega hvaða lit hver pixel fær.
       <p></p>
       <img src="http://blog.mozilla.org/hacks/files/2013/04/webgl-pipeline.png">
     </div>
@@ -32,13 +32,14 @@
   </li>
 
   <li>
-  </li>
     <p>
       test
     </p>
+  </li>
+  
   <li>
     <p>
-      test
+      https://donninja.github.io/FORR3FVVerk2/
     </p>
   </li>
 </ol>
