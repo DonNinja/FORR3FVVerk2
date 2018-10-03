@@ -33,7 +33,7 @@
 
   <li>
     <p>
-      test
+      WebGL Shaders eru gerðir úr tvemur shaders, vertex shader og fragment shaders. Vertex shader sér um að blanda öllum vertices sem þú gefur því saman til að búa til object með þeim, properties sem þú setur upp í shaderinum ákveða hvernig objectið verður þegar það kemur að sameina vertice-in. Fragment shaders sjá um að lita object og gefa því sérstakt lighting eftir þeim properties sem maður gefur því. GLSL er tungumálið sem shaders eru í.
     </p>
   </li>
   
