@@ -39,7 +39,7 @@
   
   <li>
     <p>
-      https://donninja.github.io/FORR3FVVerk2/
+      <a href="https://donninja.github.io/FORR3FVVerk2/" target="_blank">Rotating triangle (not done)</a>
     </p>
   </li>
 </ol>
