@@ -27,7 +27,13 @@
     
   <li>   
     <p>
-      test
+      a) Translation
+    </p> 
+    <p>
+      b) Rotation
+    </p> 
+    <p>
+      c) Scale
     </p>
   </li>
 
